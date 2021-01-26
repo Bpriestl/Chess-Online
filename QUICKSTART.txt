@@ -1,0 +1,11 @@
+This is the Quickstart file, follow the instructions shown below.
+
+Type: ./bin/chat zuma 18000
+
+Then you can log in with account:
+
+	user: QV
+	password: iamaverycoolguy
+
+Click on add friends to add the contacts you wish to chat with.
+Click on the contact list to begin chatting.

@@ -1,0 +1,13 @@
+Welcome 
+
+/*Instructions on how to Install*/
+
+Type: tar -xvzf Chat_V1.0_src.tar.gz
+
+Then: cd Chat_V1.0_src
+
+Then: make
+
+*refer to the User Manual or the Software Spec for more information*
+
+
